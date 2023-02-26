@@ -20,9 +20,9 @@ Run `./build-nginx.sh [build_name]`, where `[build_name]` one of:
 |`ubuntu18.04`              | Ubuntu 18.04 with NGINX                          |
 |`centos8`                  | CentOS 8 with NGINX                              |
 |`hello`                    | NGINX webserver that serves a simple html page        |                     
-|`hello-plaintext`            | NGINX webserver that serves a plain text page          |  
-|`nginx1.21.1`  | NGINX 1.21.1 as an HTTP and HTTPS (SSL terminating) + upstream check module|  
-|`stable`  |  NGINX 1.22.1 and Alpine Linux 3.17|  
+|`hello-plaintext`          | NGINX webserver that serves a plain text page          |  
+|`nginx1.21.1`              | NGINX 1.21.1 as an HTTP and HTTPS (SSL terminating) + upstream check module|  
+|`stable`                   | NGINX 1.22.1 and Alpine Linux 3.17|  
 
 ## Build NGINX Docker container using script
 
